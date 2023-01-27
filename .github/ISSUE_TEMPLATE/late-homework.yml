@@ -4,7 +4,9 @@ title: "Late Homework Request"
 labels: ["grade-homework"]
 
 assignees:
-  - sjengle
+  - ybsolomon
+  - mtquach2
+  - halenander
 
 body:
   - type: markdown
