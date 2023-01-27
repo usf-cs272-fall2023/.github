@@ -1,0 +1,38 @@
+name: Late Homework Request
+description: Request a late homework grade
+title: "Late Homework Request"
+labels: ["grade-homework"]
+
+assignees:
+  - ybsolomon
+  - halenander
+  - mtquach2
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this issue to request a late homework grade.
+
+  - type: input
+    id: full_name
+    attributes:
+      label: Full Name
+      description: Please enter your full name.
+      placeholder: Full Name
+    validations:
+      required: true
+
+  - type: input
+    id: usf_email
+    attributes:
+      label: USF Email
+      description: Please enter your USF email address.
+      placeholder: username@dons.usfca.edu
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        The most recent GitHub Action run will be used to determine your grade. If you want to use a different action run, please reach out on Piazza.
