@@ -21,7 +21,7 @@ body:
     id: usf_email
     attributes:
       label: USF Email
-      description: Please enter your USF email address. 
+      description: Please enter your USF email address.
       placeholder: username@dons.usfca.edu
     validations:
       required: true
@@ -40,3 +40,7 @@ body:
     validations:
       required: true
 
+  - type: markdown
+    attributes:
+      value: |
+        :warning: Do not make any changes to your `main` branch after this release. You need to create a branch to work ahead!
