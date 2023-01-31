@@ -1,6 +1,6 @@
-name: Request Project Code Review Appointment
-description: Request a project code review appointment
-title: "Request Project Code Review Appointment"
+name: Request Project Code Review
+description: Request a project code review appointment from the instructor.
+title: Request Project Code Review
 
 body:
   - type: markdown

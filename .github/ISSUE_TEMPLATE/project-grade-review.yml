@@ -1,6 +1,6 @@
 name: Request Project Review Grade
-description: Request a project review grade
-title: "Request Project Review Grade"
+description: Request a project review grade after your code review appointment.
+title: Request Project Review Grade
 labels: ["grade-review"]
 
 assignees:

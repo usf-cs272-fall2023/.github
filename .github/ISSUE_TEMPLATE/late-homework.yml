@@ -1,5 +1,5 @@
 name: Request Late Homework Grade
-description: Request a late homework grade
+description: Request a late homework grade.
 title: "Request Late Homework Grade"
 labels: ["grade-homework"]
 
