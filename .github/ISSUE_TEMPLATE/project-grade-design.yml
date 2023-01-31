@@ -1,0 +1,47 @@
+name: Request Project Design Grade
+description: Request a project design grade
+title: "Request Project Design Grade"
+labels: ["grade-design"]
+
+assignees:
+  - ybsolomon
+  - mtquach2
+  - halenander
+
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this issue to request a project design grade *after* you passed code review.
+
+  - type: input
+    id: full_name
+    attributes:
+      label: Full Name
+      description: Please enter your full name.
+      placeholder: Full Name
+    validations:
+      required: true
+
+  - type: input
+    id: usf_email
+    attributes:
+      label: USF Email
+      description: Please enter your USF email address.
+      placeholder: username@dons.usfca.edu
+    validations:
+      required: true
+
+  - type: input
+    id: project_release
+    attributes:
+      label: Release
+      description: Please enter the final project release for your design grade.
+      placeholder: v1.0.0
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        :warning: If you already have an issue created for this grade, please edit and re-open that issue rather than create a new one!
