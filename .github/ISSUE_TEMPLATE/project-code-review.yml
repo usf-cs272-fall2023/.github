@@ -6,7 +6,7 @@ body:
   - type: markdown
     attributes:
       value: |
-        Use this issue to request a project code review appointment.
+        Use this issue to request a project code review appointment with the instructor.
 
   - type: input
     id: full_name
@@ -21,10 +21,15 @@ body:
     id: usf_email
     attributes:
       label: USF Email
-      description: Please enter your USF email address.
+      description: Please enter your USF email address. 
       placeholder: username@dons.usfca.edu
     validations:
       required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        :warning: Double-check your email is correct. Otherwise, you may not receive an appointment confirmation.
 
   - type: input
     id: project_release

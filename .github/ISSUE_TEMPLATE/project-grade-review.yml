@@ -44,4 +44,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        :warning: If you already have an issue created for this grade, please edit and re-open that issue rather than create a new one!
+        :warning: Enter the *old* release number that you had code reviewed by the instructor!
