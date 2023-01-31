@@ -1,5 +1,5 @@
 name: Request Project Code Review
-description: Request a project code review appointment from the instructor.
+description: :spiral_calendar: Request a project code review appointment from the instructor.
 title: Request Project Code Review
 
 body:
