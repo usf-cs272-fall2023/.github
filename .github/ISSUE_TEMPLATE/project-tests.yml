@@ -44,4 +44,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        If you already have an issue created for this release, please edit and re-open that issue rather than create a new one!
+        :warning: If you already have an issue created for this release, please edit and re-open that issue rather than create a new one!
