@@ -1,5 +1,5 @@
 name: Request Project Tests Grade
-description: Request a project tests grade.
+description: 📒 Request a project tests grade.
 title: Request Project Tests Grade
 labels: ["grade-tests"]
 
