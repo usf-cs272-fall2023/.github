@@ -3,11 +3,6 @@ description: 📒 Request a project tests grade.
 title: Request Project Tests Grade
 labels: ["grade-tests"]
 
-assignees:
-  - ybsolomon
-  - mtquach2
-  - halenander
-
 body:
   - type: markdown
     attributes:

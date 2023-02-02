@@ -3,11 +3,6 @@ description: 📒 Request a project review grade after your code review appointm
 title: Request Project Review Grade
 labels: ["grade-review"]
 
-assignees:
-  - ybsolomon
-  - mtquach2
-  - halenander
-
 body:
   - type: markdown
     attributes:

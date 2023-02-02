@@ -3,11 +3,6 @@ description: 📒 Request a project design grade.
 title:  Request Project Design Grade 
 labels: ["grade-design"]
 
-assignees:
-  - ybsolomon
-  - mtquach2
-  - halenander
-
 body:
   - type: markdown
     attributes:
