@@ -1,7 +1,6 @@
 name: Request Project Design Grade 
 description: 📒 Request a project design grade.
 title:  Request Project Design Grade 
-labels: ["grade-design"]
 
 body:
   - type: markdown
