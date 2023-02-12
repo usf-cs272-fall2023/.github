@@ -1,12 +1,6 @@
 name: Request Late Homework Grade
 description: 📝 Request a late homework grade.
 title: "Request Late Homework Grade"
-labels: ["grade-homework"]
-
-assignees:
-  - ybsolomon
-  - mtquach2
-  - halenander
 
 body:
   - type: markdown
