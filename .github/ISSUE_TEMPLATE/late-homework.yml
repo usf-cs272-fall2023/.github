@@ -29,4 +29,4 @@ body:
   - type: markdown
     attributes:
       value: |
-        The most recent GitHub Action run will be used to determine your grade. If you want to use a different action run, please reach out on Piazza.
+        The most recent GitHub Action run will be used to determine your grade.
